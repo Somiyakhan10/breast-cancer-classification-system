@@ -71,11 +71,6 @@
 <img width="1889" height="876" alt="image" src="https://github.com/user-attachments/assets/ac5d655a-1845-4cd8-804d-f2cc3277cfab" />
 
 
-### Batch Prediction
-*CSV upload interface for bulk patient risk assessment*
-
-![Batch Prediction](images/batch-page.png)
-
 ### About Page
 *Methodology, dataset information, and model documentation*
 
